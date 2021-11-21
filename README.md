@@ -1,6 +1,6 @@
-# My site name: Car-LagbeNaki
+# My site name: Car-KinbaNaki
 
-# My Sites's Live Server [Car-LagbeNaki](https://car-lagbenaki.web.app/) : (https://car-lagbenaki.web.app/).
+# My Sites's Live Server [Car-KinbaNaki](https://car-lagbenaki.web.app/) : (https://car-lagbenaki.web.app/).
 
 # Description:
  This is a Car selling website.The site is very helpfu for car enthusiastic people whgo wants to buy car in future.We offer all trending car collection.
